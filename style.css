@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Odibee+Sans&display=swap");
+@import url("CSS/components/container.css");
+@import url("CSS/components/button.css");
+@import url("CSS/components/banner.css");
+@import url("CSS/components/card.css");
+@import url("CSS/components/buttonblue.css");
+
+
+body {
+	font font-family: 'Montserrat', sans-serif ;
+	font-size: 18px ;
+	background-color: #E0E6EF;
+}
+
+h1, h2, h3 {
+	font-family: 'Odibee Sans', cursive;
+	text-align: center;
+}
